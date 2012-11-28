@@ -17,7 +17,7 @@ uint8_t pixeltime = 0;
 uint8_t row = 0;
 //Pointer to the current Image
 unsigned char *picture;
-
+//Pointer to the current buffer Image
 unsigned char *picbuffer;
 uint8_t buPos = 0;
 /**
