@@ -1,0 +1,6 @@
+RGB DOTMATRIX PANEL
+
+This is a driver for a LED RGB Dotmatrix Panel
+
+Microcontroller used Atmel Atemga8515
+LED Panel: YSM-2388CRGBC
